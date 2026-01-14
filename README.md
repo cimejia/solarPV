@@ -52,7 +52,7 @@
 
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="extra/images/martin.jpg" width="50"/><br/>
 <sub><b>Martin Sarmiento</b></sub><br/>
 </td>
@@ -72,6 +72,9 @@
 <img src="extra/images/shelby.jpg" width="50"/><br/>
 <sub><b>Shelby Gualan</b></sub><br/>
 </td>
+</tr>
+<tr>
+<td>Central University of Ecuador</td>
 </tr>
 </table>
 
