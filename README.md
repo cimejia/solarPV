@@ -1,5 +1,101 @@
 # 🌞 Global Solar Power Plants Dataset  
 ### An Institutional Research Initiative on Solar Energy, Geospatial Data and Machine Learning
+---
+<div align="right">
+
+### 👥 Principal Collaborators
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://avatars.githubusercontent.com/u/0000001?v=4" width="70"/><br/>
+      <sub><b>Dr. Name One</b></sub><br/>
+      <sub>Solar Energy Lab</sub><br/>
+      <sub>University of Example</sub><br/>
+      <a href="https://orcid.org/0000-0000-0000-0001">ORCID</a> ·
+      <a href="https://scholar.google.com/">Scholar</a>
+    </td>
+
+    <td align="center" width="130">
+      <img src="https://avatars.githubusercontent.com/u/0000002?v=4" width="70"/><br/>
+      <sub><b>Dr. Name Two</b></sub><br/>
+      <sub>Geospatial AI Group</sub><br/>
+      <sub>University of Example</sub><br/>
+      <a href="https://orcid.org/0000-0000-0000-0002">ORCID</a> ·
+      <a href="https://scholar.google.com/">Scholar</a>
+    </td>
+
+    <td align="center" width="130">
+      <img src="https://avatars.githubusercontent.com/u/0000003?v=4" width="70"/><br/>
+      <sub><b>Dr. Name Three</b></sub><br/>
+      <sub>Renewable Energy Lab</sub><br/>
+      <sub>Institute of Technology</sub><br/>
+      <a href="https://orcid.org/0000-0000-0000-0003">ORCID</a>
+    </td>
+
+    <td align="center" width="130">
+      <img src="https://avatars.githubusercontent.com/u/0000004?v=4" width="70"/><br/>
+      <sub><b>Dr. Name Four</b></sub><br/>
+      <sub>Spatial Data Science</sub><br/>
+      <sub>National Research Center</sub><br/>
+      <a href="https://scholar.google.com/">Scholar</a>
+    </td>
+
+    <td align="center" width="130">
+      <img src="https://avatars.githubusercontent.com/u/0000005?v=4" width="70"/><br/>
+      <sub><b>Dr. Name Five</b></sub><br/>
+      <sub>Energy Systems Group</sub><br/>
+      <sub>University of Example</sub><br/>
+      <a href="https://orcid.org/0000-0000-0000-0005">ORCID</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Support Team
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="50"/><br/>
+      <sub><b>Research Assistant</b></sub><br/>
+      <sub>Data Processing</sub>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" width="50"/><br/>
+      <sub><b>GIS Analyst</b></sub><br/>
+      <sub>Spatial Products</sub>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" width="50"/><br/>
+      <sub><b>ML Engineer</b></sub><br/>
+      <sub>Neural Models</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏛️ Institutional Affiliation
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Example_University_logo.png" width="90"/><br/>
+      <sub><b>University of Example</b></sub>
+    </td>
+
+    <td align="center" width="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Research_Lab_Logo.png" width="90"/><br/>
+      <sub><b>Solar Energy Research Lab</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
