@@ -56,19 +56,23 @@
 <img src="extra/images/martin.jpg" width="50"/><br/>
 <sub><b>Martin Sarmiento</b></sub><br/>
 </td>
-
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" width="50"/><br/>
-      <sub><b>GIS Analyst</b></sub><br/>
-      <sub>Spatial Products</sub>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" width="50"/><br/>
-      <sub><b>ML Engineer</b></sub><br/>
-      <sub>Neural Models</sub>
-    </td>
-  </tr>
+<td align="center" width="120">
+<img src="extra/images/luis.jpg" width="50"/><br/>
+<sub><b>Fernando Neira</b></sub><br/>
+</td>
+<td align="center" width="120">
+<img src="extra/images/carlos.jpg" width="50"/><br/>
+<sub><b>Carlos Ramirez</b></sub><br/>
+</td>
+<td align="center" width="120">
+<img src="extra/images/yuleidi.jpg" width="50"/><br/>
+<sub><b>Juleydi Miles</b></sub><br/>
+</td>
+<td align="center" width="120">
+<img src="extra/images/shelby.jpg" width="50"/><br/>
+<sub><b>Shelby Gualan</b></sub><br/>
+</td>
+</tr>
 </table>
 
 ---
