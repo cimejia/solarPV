@@ -57,7 +57,7 @@
 <sub><b>Martin Sarmiento</b></sub><br/>
 </td>
 <td align="center" width="120">
-<img src="extra/images/luis.jpg" width="50"/><br/>
+<img src="extra/images/luis.png" width="50"/><br/>
 <sub><b>Fernando Neira</b></sub><br/>
 </td>
 <td align="center" width="120">
