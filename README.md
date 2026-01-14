@@ -9,31 +9,27 @@
 <tr>
 <td align="center" width="130">
 <img src="extra/images/anibal.jpg" width="70"/><br/>
-<sub><b>Anibal Mantilla</b></sub><br/>
+<sub><b>Anibal Mantilla-Guerra</b></sub><br/>
 <sub>Central University of Ecuador</sub><br/>
 <a href="https://orcid.org/0000-0000-0000-0001">ORCID</a>
 </td>
 <td align="center" width="130">
-<img src="https://avatars.githubusercontent.com/u/0000002?v=4" width="70"/><br/>
-<sub><b>Dr. Name Two</b></sub><br/>
-<sub>Geospatial AI Group</sub><br/>
-<sub>University of Example</sub><br/>
+<img src="extra/images/christian.jpg" width="70"/><br/>
+<sub><b>Christian Mejia-Escobar</b></sub><br/>
+<sub>Central University of Ecuador</sub><br/>
 <a href="https://orcid.org/0000-0000-0000-0002">ORCID</a> ·
-<a href="https://scholar.google.com/">Scholar</a>
 </td>
 <td align="center" width="130">
-<img src="https://avatars.githubusercontent.com/u/0000003?v=4" width="70"/><br/>
-<sub><b>Dr. Name Three</b></sub><br/>
-<sub>Renewable Energy Lab</sub><br/>
-<sub>Institute of Technology</sub><br/>
+<img src="extra/images/jose.jpg" width="70"/><br/>
+<sub><b>Jose Garcia-Rodriguez</b></sub><br/>
+<sub>University of Alicante</sub><br/>
 <a href="https://orcid.org/0000-0000-0000-0003">ORCID</a>
 </td>
 <td align="center" width="130">
-<img src="https://avatars.githubusercontent.com/u/0000004?v=4" width="70"/><br/>
-<sub><b>Dr. Name Four</b></sub><br/>
-<sub>Spatial Data Science</sub><br/>
-<sub>National Research Center</sub><br/>
-<a href="https://scholar.google.com/">Scholar</a>
+<img src="extra/images/jorge.jpg" width="70"/><br/>
+<sub><b>Jorge Azorin-Lopez</b></sub><br/>
+<sub>University of Alicante</sub><br/>
+<a href="https://orcid.org/0000-0000-0000-0003">ORCID</a>
 </td>
 <td align="center" width="130">
 <img src="https://avatars.githubusercontent.com/u/0000005?v=4" width="70"/><br/>
