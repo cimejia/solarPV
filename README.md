@@ -6,15 +6,15 @@
 ### 👥 Principal Collaborators
 
 <table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://avatars.githubusercontent.com/u/0000001?v=4" width="70"/><br/>
-      <sub><b>Dr. Name One</b></sub><br/>
-      <sub>Solar Energy Lab</sub><br/>
-      <sub>University of Example</sub><br/>
-      <a href="https://orcid.org/0000-0000-0000-0001">ORCID</a> ·
-      <a href="https://scholar.google.com/">Scholar</a>
-    </td>
+<tr>
+<td align="center" width="130">
+<img src="https://avatars.githubusercontent.com/u/0000001?v=4" width="70"/><br/>
+<sub><b>Dr. Name One</b></sub><br/>
+<sub>Solar Energy Lab</sub><br/>
+<sub>University of Example</sub><br/>
+<a href="https://orcid.org/0000-0000-0000-0001">ORCID</a> ·
+<a href="https://scholar.google.com/">Scholar</a>
+</td>
 
     <td align="center" width="130">
       <img src="https://avatars.githubusercontent.com/u/0000002?v=4" width="70"/><br/>
