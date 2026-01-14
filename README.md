@@ -1,7 +1,7 @@
 # 🌞 Global Solar Power Plants Dataset  
 ### An Institutional Research Initiative on Solar Energy, Geospatial Data and Machine Learning
 ---
-<div align="right">
+<div align="left">
 
 ### 👥 Principal Collaborators
 
