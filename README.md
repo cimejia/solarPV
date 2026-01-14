@@ -32,10 +32,15 @@
 <a href="https://orcid.org/0000-0000-0000-0003">ORCID</a>
 </td>
 <td align="center" width="130">
-<img src="https://avatars.githubusercontent.com/u/0000005?v=4" width="70"/><br/>
-<sub><b>Dr. Name Five</b></sub><br/>
-<sub>Energy Systems Group</sub><br/>
-<sub>University of Example</sub><br/>
+<img src="extra/images/fernando.jpg" width="70"/><br/>
+<sub><b>Byron Fernando Tarco</b></sub><br/>
+<sub>Central University of Ecuador</sub><br/>
+<a href="https://orcid.org/0000-0000-0000-0005">ORCID</a>
+</td>
+<td align="center" width="130">
+<img src="extra/images/karen.jpg" width="70"/><br/>
+<sub><b>Karen Santamaria</b></sub><br/>
+<sub>Central University of Ecuador</sub><br/>
 <a href="https://orcid.org/0000-0000-0000-0005">ORCID</a>
 </td>
 </tr>
