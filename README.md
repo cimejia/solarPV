@@ -39,7 +39,7 @@
 </td>
 <td align="center" width="130">
 <img src="extra/images/karen.jpg" width="70"/><br/>
-<sub><b>Karen Santamaria</b></sub><br/>
+<sub><b>Karen Santamaria Hernandez</b></sub><br/>
 <sub>Central University of Ecuador</sub><br/>
 <a href="https://orcid.org/0000-0000-0000-0005">ORCID</a>
 </td>
@@ -51,12 +51,11 @@
 ### 🛠️ Support Team
 
 <table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="50"/><br/>
-      <sub><b>Research Assistant</b></sub><br/>
-      <sub>Data Processing</sub>
-    </td>
+<tr>
+<td align="center" width="120">
+<img src="extra/images/martin.jpg" width="50"/><br/>
+<sub><b>Martin Sarmiento</b></sub><br/>
+</td>
 
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" width="50"/><br/>
