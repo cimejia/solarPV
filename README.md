@@ -107,7 +107,7 @@ The primary product is a **tabular dataset** containing:
 
 - 🌍 **Worldwide coverage**
 - 🏭 **Approximately 50,000 solar power plant records**
-- 🧾 **26 attributes per record**
+- 🧾 **27 attributes per record**
 
 ### Attribute groups include:
 - Geographic and spatial variables
