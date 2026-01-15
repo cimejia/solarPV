@@ -228,8 +228,8 @@ Please use GitHub **Issues** or **Pull Requests** to contribute.
 
 For academic collaboration, data usage inquiries, or citation information:
 
-📧 *[institutional email]*  
-🌐 *[laboratory or university website]*
+📧 *armantilla@uce.edu.ec*  
+🌐 *www.uce.edu.ec*
 
 ---
 
