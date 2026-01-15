@@ -119,6 +119,8 @@ The primary product is a **tabular dataset** containing:
 📁 **Format:** CSV (tabular)  
 📌 **Designed for:** data analysis, GIS integration, and machine learning pipelines
 
+### 📊 Dataset Sample (Extract)
+
 | IDENTIFICACIÓN |                                 | UBICACIÓN |                          |            |            | TERRENO   |             |         |   |            |                    |           |                                  |            |           |                    | CLIMA       |                    |                |                      |                      |           |               |            | TÉCNICO   |                    |                        |
 |----------------|---------------------------------|-----------|--------------------------|------------|------------|-----------|-------------|---------|---|------------|--------------------|-----------|----------------------------------|------------|-----------|--------------------|-------------|--------------------|----------------|----------------------|----------------------|-----------|---------------|------------|-----------|--------------------|------------------------|
 | CÓDIGO         | NOMBRE                          | PAÍS      | ESTADO                   | LONGITUD   | LATITUD    | ELEVACIÓN | ÁREA        | TAMAÑO  |   | PENDIENTE  | T_PENDIENTE        | CURVATURA | T_CURVATURA                      | ASPECTO    | T_ASPECTO | DISTANCIA A LA VIA | TEMPERATURA | IRRADIANCIA GLOBAL | HUMEDAD        | VELOCIDAD DEL VIENTO | DIRECCIÓN DEL VIENTO | DT_VIENTO | APTITUD SOLAR | T_APTITUDS | CAPACIDAD | INCLINACIÓN ÓPTIMA | POTENCIAL FOTOVOLTÁICO |
