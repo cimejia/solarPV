@@ -137,10 +137,6 @@ The primary product is a **tabular dataset** containing:
 | 00140-ARG-G    | Cauchari Solar Power Complex    | Argentina | operating                | -66.723701 | -24.094999 | 3989      | 10738800    | Grande  | G | 0.641232   | Plano o casi plano | -0.002384 | Superficies planas o intermedias | 286.821411 | West      | 41632.5789384461   | 6.6         | 8.031              | 53.74          | 5.4822               | 55.099998            | Northeast | 0.8           | Alta       | 105       | 27                 | 6.392                  |
 | 00141-ARG-P    | Cauchari Solar Power Complex    | Argentina | operating                | -66.7248   | -24.091499 | 3989      | 30          | Pequeña | P | 0.451402   | Plano o casi plano | -0.001589 | Superficies planas o intermedias | 304.69516  | Northwest | 41891.6610878239   | 6.6         | 8.029              | 58.23          | 5.47306              | 82.1                 | East      | 0.8           | Alta       | 105       | 27                 | 6.394                  |
 
-
-<img width="5570" height="238" alt="image" src="https://github.com/user-attachments/assets/06c1330b-c45d-482c-b6da-4bbc85ebf56c" />
-
-
 ---
 
 ## 🗺️ Geospatial Data Products
