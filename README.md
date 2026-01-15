@@ -200,13 +200,13 @@ This project is released under the
 ## 🏛️ Institutional Affiliation
 
 **Research Group / Laboratory:**  
-*[Name of the research group or laboratory]*  
+*Department of Computer Technology*  
 
 **Institution:**  
-*[University or research institution name]*  
+*University of Alicante*  
 
 **Country:**  
-*[Country]*
+*Spain*
 
 ---
 
