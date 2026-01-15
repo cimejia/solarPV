@@ -77,6 +77,7 @@
 
 ---
 
+'''
 ### 🏛️ Institutional Affiliation
 
 <table>
@@ -94,6 +95,7 @@
 </div>
 
 ---
+'''
 
 ## 📍 Project Context
 
