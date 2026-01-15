@@ -160,7 +160,7 @@ The repository includes a **Jupyter Notebook** implementing a **neural networkâ€
 
 To facilitate access and dissemination, a **web-based platform** was developed as part of the project.
 
-<img src="extra/images/website.png" width="500"/>
+<a href="https://mssarmientoo.github.io/figempa/" target="blank"><img src="extra/images/website.png" width="800"/></a>
 
 ### Platform capabilities:
 - Descriptive and exploratory statistical analysis
