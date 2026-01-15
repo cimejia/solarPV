@@ -77,26 +77,6 @@
 
 ---
 
-'''
-### 🏛️ Institutional Affiliation
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Example_University_logo.png" width="90"/><br/>
-<sub><b>University of Example</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Research_Lab_Logo.png" width="90"/><br/>
-<sub><b>Solar Energy Research Lab</b></sub>
-</td>
-</tr>
-</table>
-</div>
-
----
-'''
-
 ## 📍 Project Context
 
 This repository hosts the official products of a **research project developed within an academic and institutional framework**, focused on the **systematic compilation, analysis, and modeling of global solar power plant data**.
