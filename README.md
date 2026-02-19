@@ -83,6 +83,8 @@
 
 📄 [Artículo científico](https://doi.org/xxxxx)
 
+🎥 [Video presentation](https://drive.google.com/file/d/1Iux5AY-MoIfIn0YNS76w7fZCES2NUDXR/view?usp=sharing)
+
 [![Demo Video](extra/images/video-thumbnail.png)](https://drive.google.com/file/d/1Iux5AY-MoIfIn0YNS76w7fZCES2NUDXR/view?usp=sharing)
 
 💾 [Dataset](Dataset/)
