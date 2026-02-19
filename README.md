@@ -77,11 +77,10 @@
 
 ---
 
-## Recursos
-- 🌐 [Interactive map](https://mssarmientoo.github.io/figempa/map/index.html)
-- <a href="https://mssarmientoo.github.io/figempa/map/index.html" target="_new"><img src="extra/images/map-preview.png" width="800"/></a>
-- 📄 [Artículo científico](https://doi.org/xxxxx)
-- 💾 [Dataset](Dataset/)
+🌐 [Interactive map](https://mssarmientoo.github.io/figempa/map/index.html)
+<a href="https://mssarmientoo.github.io/figempa/map/index.html" target="_blank"><img src="extra/images/map-preview.png" width="800"/></a>
+📄 [Artículo científico](https://doi.org/xxxxx)
+💾 [Dataset](Dataset/)
 
 ---
 
