@@ -82,6 +82,9 @@
 <a href="https://mssarmientoo.github.io/figempa/map/index.html" target="_blank"><img src="extra/images/map-preview.png" width="800"/></a>
 
 📄 [Artículo científico](https://doi.org/xxxxx)
+
+[![Demo Video](extra/images/video-thumbnail.png)](https://drive.google.com/file/d/1Iux5AY-MoIfIn0YNS76w7fZCES2NUDXR/view?usp=sharing)
+
 💾 [Dataset](Dataset/)
 
 ---
