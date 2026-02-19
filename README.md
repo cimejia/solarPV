@@ -76,6 +76,7 @@
 </table>
 
 ---
+## Products
 
 🌐 [Interactive map](https://mssarmientoo.github.io/figempa/map/index.html)
 
@@ -84,6 +85,8 @@
 🎥 [Video presentation](https://drive.google.com/file/d/1Iux5AY-MoIfIn0YNS76w7fZCES2NUDXR/view?usp=sharing)
 
 [![Demo Video](extra/images/video-thumbnail.png)](https://drive.google.com/file/d/1Iux5AY-MoIfIn0YNS76w7fZCES2NUDXR/view?usp=sharing)
+
+📄 [View slides](slides.pdf)
 
 📄 [Scientific paper](https://doi.org/xxxxx)
 
