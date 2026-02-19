@@ -81,11 +81,11 @@
 
 <a href="https://mssarmientoo.github.io/figempa/map/index.html" target="_blank"><img src="extra/images/map-preview.png" width="800"/></a>
 
-📄 [Artículo científico](https://doi.org/xxxxx)
-
 🎥 [Video presentation](https://drive.google.com/file/d/1Iux5AY-MoIfIn0YNS76w7fZCES2NUDXR/view?usp=sharing)
 
 [![Demo Video](extra/images/video-thumbnail.png)](https://drive.google.com/file/d/1Iux5AY-MoIfIn0YNS76w7fZCES2NUDXR/view?usp=sharing)
+
+📄 [Scientific paper](https://doi.org/xxxxx)
 
 💾 [Dataset](Dataset/)
 
@@ -95,7 +95,7 @@
 
 This repository hosts the official products of a **research project developed within an academic and institutional framework**, focused on the **systematic compilation, analysis, and modeling of global solar power plant data**.
 
-The project is conducted by a **university research group / laboratory**, with the objective of supporting:
+The project is conducted by a **research group** from a colaboration between the **University of Alicante** ([UA](https://www.ua.es/)) and the **Central University of Ecuador** ([UCE](https://www.uce.edu.ec/)), with the objective of supporting:
 
 - scientific research on renewable energy
 - data-driven spatial planning
