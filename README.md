@@ -120,7 +120,7 @@ The main objectives of this project are:
 The primary product is a **tabular dataset** containing:
 
 - 🌍 **Worldwide coverage**
-- 🏭 **Approximately 50,000 solar power plant records**
+- 🏭 **58,978 solar power plant records**
 - 🧾 **27 attributes per record**
 
 ### Attribute groups include:
@@ -128,7 +128,6 @@ The primary product is a **tabular dataset** containing:
 - Technical characteristics of solar installations
 - Environmental and climatic indicators
 - Infrastructure and accessibility variables
-- Socioeconomic and territorial context
 
 📁 **Format:** CSV (tabular)  
 📌 **Designed for:** data analysis, GIS integration, and machine learning pipelines
