@@ -77,6 +77,13 @@
 
 ---
 
+## Recursos
+- 🌐 [Interactive map](https://miweb.edu)
+- 📄 [Artículo científico](https://doi.org/xxxxx)
+- 💾 [Dataset](Dataset/)
+
+---
+
 ## 📍 Project Context
 
 This repository hosts the official products of a **research project developed within an academic and institutional framework**, focused on the **systematic compilation, analysis, and modeling of global solar power plant data**.
